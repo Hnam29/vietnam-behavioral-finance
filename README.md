@@ -1,4 +1,4 @@
-# 📈 Tài chính hành vi Việt Nam - [Analysis Web Application](https://vietnam-behavioral-finance.streamlit.app/)
+# 📈 Tài chính hành vi Việt Nam - [Website phân tích của dự án](https://vietnam-behavioral-finance.streamlit.app/)
 
 Bảng điều khiển phân tích thực nghiệm cho nghiên cứu:
 
