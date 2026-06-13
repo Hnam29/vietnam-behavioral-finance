@@ -1,0 +1,41 @@
+# ── Python ────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Virtual environments ───────────────────────
+.venv/
+venv/
+env/
+
+# ── macOS ─────────────────────────────────────
+.DS_Store
+.AppleDouble
+
+# ── Large raw / processed data files ──────────
+# These are too large for GitHub (>100 MB)
+data/raw/
+data/processed/firm_panel_daily.parquet
+data/processed/returns_daily.parquet
+data/processed/firm_panel_daily_pruned.parquet
+data/processed/firm_panel_daily_pruned_zstd.parquet
+
+# ── Logs ──────────────────────────────────────
+data/logs/
+
+# ── Research / intermediary outputs ───────────
+output/figures/
+
+# ── Jupyter / IDE ─────────────────────────────
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# ── Credentials ───────────────────────────────
+.env
+*.pem
+*.key
